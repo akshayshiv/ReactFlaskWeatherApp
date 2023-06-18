@@ -21,7 +21,7 @@ npm install @mui/material @emotion/react @emotion/styled
 4. Run the application
 ```
 
-``` Do this to make sure the app is being served
+ Do this to make sure the app is being served
 5. export FLASK_APP=__init__.py 
 
 ```
