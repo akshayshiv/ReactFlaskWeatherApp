@@ -1,0 +1,53 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* App container */
+.App {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+.weather {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  margin-top: -20px;
+  margin-left: -20px;
+  width: 250px;
+
+}
+
+/* Header container */
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Welcome text */
+.App-header span {
+  font-size: 2rem;
+  font-weight: 600;
+  
+}
+/* Grid container */
+.gridStyle {
+  margin-top: 20px;
+}
+
+.select {
+  padding-bottom: 20px;
+}
+
+
+
+
